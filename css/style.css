@@ -1,0 +1,170 @@
+/*
+mögliche farben 
+grau (#d6d7db)
+*/
+/*
+body{
+	background-color:#d6d7db;
+
+	font: normal 16px Arial, Helvetica, sans-serif;
+
+	line-height:1.6em;
+	margin:0;
+	background-image:url('../images/HNGE_03.jpg');
+	background-repeat: no-repeat; 
+	background-size: cover;
+}
+
+
+
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	color:red;
+}
+
+a:active{
+	color:darkred;
+}
+
+a:visited{
+	
+}
+
+.container{
+	width:80%;
+	margin:auto; 
+	text-align:center;
+}
+
+#Style-01{
+	background-color:#d6d7db;
+	color:#fff;
+	padding:20px;
+	margin-top:20px;
+	margin-bottom:20px;
+	border-radius: 12px; 
+	box-shadow: 5px 5px 10px black;
+}
+
+.box-01{
+	font-size: 24px;
+}
+
+button{
+	background-color: red; 
+	opacity: 0.5; 
+ 	border: none; 
+ 	width: 40%;
+  	color: white;
+ 	padding: 3em;
+ 	border-radius: 12px; 
+ 	text-align: center;
+ 	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
+
+button:hover{
+	opacity: 1;
+}
+/*.box-03{
+	font-size: 1em;
+	columns: 200px 2;
+	.column-fill: balance; 
+}
+*/
+/*
+.logos_unten{
+	width: 480px;
+}
+
+
+.link-01{
+	margin-top:30px;
+}
+*/
+
+
+body{
+	background-color: #fafafa; 
+	font: normal 16px Arial, Helvetica, sans-serif; 
+	line-height: 1.6em; 
+
+	/*background-image:url('../images/HNGE_03.jpg');
+	background-repeat: no-repeat; 
+	background-size: cover;*/
+
+	margin: 0; 
+	padding: 0; 
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	color:red;
+}
+
+a:active{
+	color:darkred;
+}
+
+a:visited{
+	
+}
+
+.container{
+	/*width:80%;
+	margin:auto; 
+	text-align:center; */
+	max-width: 1440px; 
+	margin: 0 auto; 
+	text-align: center;
+}
+
+.header{
+	width: 100%; 
+	height: 100px; 
+	background-color: #038C5A; 
+}
+
+.middel{
+	height: 625px; 
+	width: 80%; 
+	background-color: #bbbf90; 
+
+}
+
+.footer{
+	height: 300px; 
+	width: 100%; 
+	background-color: #025059;
+}
+
+/*button{
+	background-color: none;
+	width: 49%;
+	border: 2px solid black;
+	opacity: 0.7; 
+	padding: 3em; 
+	border-radius: 1px; 
+	text-align: center; 
+	box-shadow: 5px 5px 10px black; 
+	font: bold 25px Arial, Helvetica, sans-serif; 
+}*/
+
+
+
+/*#Style-01{
+	background-color: #2e7d32; 
+	padding:20px;
+	margin-top:20px;
+	margin-bottom:20px;
+	border-radius: 12px; 
+	box-shadow: 5px 5px 10px black;
+}*/
